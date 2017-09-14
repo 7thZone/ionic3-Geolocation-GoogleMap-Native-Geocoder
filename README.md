@@ -6,5 +6,7 @@
 Nothing fancy in it
 
 [GeoLocation Plugin] (https://ionicframework.com/docs/native/geolocation/)
+
 [GoogleMap plugin] (https://ionicframework.com/docs/native/google-maps/)
+
 [Native Geocoder Plugin] (https://ionicframework.com/docs/native/native-geocoder/)
