@@ -86,8 +86,8 @@
     <plugin name="cordova-plugin-splashscreen" spec="~4.0.1" />
     <plugin name="cordova-plugin-geolocation" spec="~2.4.3" />
     <plugin name="cordova-plugin-googlemaps" spec="https://github.com/mapsplugin/cordova-plugin-googlemaps#multiple_maps">
-        <variable name="API_KEY_FOR_ANDROID" value="YAIzaSyDdna17pHZ8vSpSga0n7Wc07xAmb9EgWWs" />
-        <variable name="API_KEY_FOR_IOS" value="AIzaSyAHgH89Fz0s03Ffowa3XJRas03Cx5CraPM" />
+        <variable name="API_KEY_FOR_ANDROID" value="" />
+        <variable name="API_KEY_FOR_IOS" value="" />
     </plugin>
     <engine name="android" spec="~6.1.2" />
     <plugin name="cordova-plugin-nativegeocoder" spec="~2.0.2" />
